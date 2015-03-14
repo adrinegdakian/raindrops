@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="droplet">//mrburns/adrinegdakian.$/Desktop/blue-water-drop-md.png</file>
+    </qresource>
+</RCC>
